@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ertaç Toptutan</h1>
+<h1 align="center">Hi 👋, I'm Ertaç</h1>
 <h3 align="center">A passionate app dev from Turkey, based in Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korybantes&label=Profile%20views&color=0e75b6&style=flat" alt="korybantes" /> </p>
